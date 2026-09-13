@@ -3,10 +3,10 @@
         "name": "Axsports Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "2:32:26 PM 13-09-2026",
+        "last_update_time": "3:47:25 PM 13-09-2026",
         "statistics": {
-            "total_live": 4,
-            "total_upcoming": 101
+            "total_live": 6,
+            "total_upcoming": 95
         }
     },
     "matches": [
@@ -40,8 +40,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 08:32:26",
-                    "updated_at": "2026-09-13 08:32:26"
+                    "created_at": "2026-09-13 09:47:25",
+                    "updated_at": "2026-09-13 09:47:25"
                 },
                 {
                     "id": "",
@@ -52,107 +52,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 08:32:26",
-                    "updated_at": "2026-09-13 08:32:26",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114417/720p/chunks.m3u8?is_vip=false&token=1789374747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-864ced07146c672ee733b924ffa68acb"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61000,
-            "status": "LIVE",
-            "name": "Race Day Part 2: China",
-            "slug": "race-day-part-2-china",
-            "score": "vs",
-            "timelive": "07:00",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789282800,
-            "timestamp": 1789282800,
-            "bd_time": "1:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "MXGP",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "143070",
-                    "stream_name": "143070",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-13 08:32:24",
-                    "updated_at": "2026-09-13 08:32:24"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "143070",
-                    "stream_name": "143070",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-13 08:32:24",
-                    "updated_at": "2026-09-13 08:32:24",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789374749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e69ed082dcf875cfdd78a50a4953e71a"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 64129,
-            "status": "LIVE",
-            "name": "Madrid, Spain Race 2",
-            "slug": "madrid-spain-race-2",
-            "score": "vs",
-            "timelive": "07:40",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789285200,
-            "timestamp": 1789285200,
-            "bd_time": "1:40 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "FIA Formula 3 Championship Feature Race",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:31:41",
-                    "updated_at": "2026-09-13 08:31:41"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:31:41",
-                    "updated_at": "2026-09-13 08:31:41",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1789374753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bffa5ebeabeb622616bc6b4732f70993"
+                    "created_at": "2026-09-13 09:47:25",
+                    "updated_at": "2026-09-13 09:47:25",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114417/720p/chunks.m3u8?is_vip=false&token=1789379246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-323e11d5c8107b029bcb66ae2ca7db0b"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -188,8 +90,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 08:32:35",
-                    "updated_at": "2026-09-13 08:32:35"
+                    "created_at": "2026-09-13 09:46:42",
+                    "updated_at": "2026-09-13 09:46:42"
                 },
                 {
                     "id": "",
@@ -200,9 +102,64 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 08:32:35",
-                    "updated_at": "2026-09-13 08:32:35",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138844/720p/chunks.m3u8?is_vip=false&token=1789374755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-519f8ff919d2fc3aca46cbbc43254b62"
+                    "created_at": "2026-09-13 09:46:42",
+                    "updated_at": "2026-09-13 09:46:42",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138844/720p/chunks.m3u8?is_vip=false&token=1789379248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-276b867a747b2f4d08232bb971dce7c7"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 59336,
+            "status": "2H",
+            "name": "PSM Makassar vs Arema FC",
+            "slug": "psm-makassar-vs-arema-fc",
+            "score": "vs",
+            "timelive": "54",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789288200,
+            "timestamp": 1789288200,
+            "bd_time": "2:30 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "Liga 1",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/274.png",
+            "localteam_name": "PSM Makassar",
+            "localteam_logo": "",
+            "visitorteam_name": "Arema FC",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd009a-backup/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-13 09:47:29",
+                    "updated_at": "2026-09-13 09:47:29",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd009a-backup/chunks.m3u8?is_vip=false&token=1789379249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-030ce7961e38fa597c0f00f15f54cb2e"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd009a-backup/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-13 09:47:29",
+                    "updated_at": "2026-09-13 09:47:29"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd009a/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-13 09:47:29",
+                    "updated_at": "2026-09-13 09:47:29",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd009a/chunks.m3u8?is_vip=false&token=1789379251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7249bae9b1a324661b1fe04c65abb4c2"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd009a/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-13 09:47:29",
+                    "updated_at": "2026-09-13 09:47:29"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -210,14 +167,14 @@
         },
         {
             "id": 64130,
-            "status": "NS",
+            "status": "LIVE",
             "name": "Madrid, Spain",
             "slug": "madrid-spain",
             "score": "vs",
             "timelive": "09:20",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1789291200,
             "timestamp": 1789291200,
             "bd_time": "3:20 PM 13-09-2026",
@@ -231,14 +188,40 @@
             "link_live": [
                 {
                     "id": "",
+                    "chanel_id": "263",
+                    "stream_name": "263",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/263_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-13 09:47:36",
+                    "updated_at": "2026-09-13 09:47:36"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "263",
+                    "stream_name": "263",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/263_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-13 09:47:36",
+                    "updated_at": "2026-09-13 09:47:36",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789379256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e8b827c02f424895d57ca7b4bc57f051"
+                },
+                {
+                    "id": "",
                     "chanel_id": "239",
                     "stream_name": "239",
                     "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:36",
-                    "updated_at": "2026-09-13 08:32:36"
+                    "sort": 3,
+                    "created_at": "2026-09-13 09:47:36",
+                    "updated_at": "2026-09-13 09:47:36"
                 },
                 {
                     "id": "",
@@ -248,8 +231,115 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:36",
-                    "updated_at": "2026-09-13 08:32:36"
+                    "sort": 4,
+                    "created_at": "2026-09-13 09:47:36",
+                    "updated_at": "2026-09-13 09:47:36",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1789379257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6621b9a8b2a18919a73d6eb781593044"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 59343,
+            "status": "1H",
+            "name": "Urawa vs Fagiano Okayama",
+            "slug": "urawa-vs-fagiano-okayama",
+            "score": "vs",
+            "timelive": "14",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789291800,
+            "timestamp": 1789291800,
+            "bd_time": "3:30 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "J1 League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png",
+            "localteam_name": "Urawa",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/287.png",
+            "visitorteam_name": "Fagiano Okayama",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/310.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3-backup/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-13 09:47:10",
+                    "updated_at": "2026-09-13 09:47:10",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3-backup/chunks.m3u8?is_vip=false&token=1789379258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e1a4103278f04f3d418a55bd31d9e848"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3-backup/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-13 09:47:10",
+                    "updated_at": "2026-09-13 09:47:10"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-13 09:47:10",
+                    "updated_at": "2026-09-13 09:47:10",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3/chunks.m3u8?is_vip=false&token=1789379259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8421d88fcadb0f7b5fd293bb77585d0c"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-13 09:47:10",
+                    "updated_at": "2026-09-13 09:47:10"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61711,
+            "status": "LIVE",
+            "name": "England vs Pakistan",
+            "slug": "england-vs-pakistan",
+            "score": "vs",
+            "timelive": "10:00",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789293600,
+            "timestamp": 1789293600,
+            "bd_time": "4:00 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "3rd Test",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "289",
+                    "stream_name": "289",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/289_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-13 09:47:40",
+                    "updated_at": "2026-09-13 09:47:40"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "289",
+                    "stream_name": "289",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-13 09:47:40",
+                    "updated_at": "2026-09-13 09:47:40",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1789379261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5f33ddaf74ad856780bc179a6c346bc"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -280,15 +370,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4a3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:36",
-                    "updated_at": "2026-09-13 08:32:36"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4a3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:36",
-                    "updated_at": "2026-09-13 08:32:36"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -319,29 +409,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0019-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0019-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0019/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0019/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -372,43 +462,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a495-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a495-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a495-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a495-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a495/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a495/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -439,57 +529,57 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a496/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -520,43 +610,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a498-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a498-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a498-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a498-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a498/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a498/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -587,43 +677,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4bf-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4bf-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4bf-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4bf-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4bf/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4bf/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -654,43 +744,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -721,29 +811,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54a-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54a-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54a/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54a/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -774,43 +864,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -841,29 +931,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54c-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54c-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -894,57 +984,57 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe67e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:37",
-                    "updated_at": "2026-09-13 08:32:37"
+                    "created_at": "2026-09-13 09:47:42",
+                    "updated_at": "2026-09-13 09:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -975,401 +1065,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0018-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0018-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0018-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0018-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0018/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0018/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 64131,
-            "status": "NS",
-            "name": "Spanish Grand Prix 2026",
-            "slug": "spanish-grand-prix-2026",
-            "score": "vs",
-            "timelive": "11:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789299000,
-            "timestamp": 1789299000,
-            "bd_time": "5:30 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "Grand Prix Sunday",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 64132,
-            "status": "NS",
-            "name": "Spanish Grand Prix 2026",
-            "slug": "spanish-grand-prix-2026",
-            "score": "vs",
-            "timelive": "12:55",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789304100,
-            "timestamp": 1789304100,
-            "bd_time": "6:55 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "Formula 1 Main Race",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61001,
-            "status": "NS",
-            "name": "SS14 BioBio 1",
-            "slug": "ss14-biobio-1",
-            "score": "vs",
-            "timelive": "13:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789304400,
-            "timestamp": 1789304400,
-            "bd_time": "7:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "WRC",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "161360",
-                    "stream_name": "161360",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "161360",
-                    "stream_name": "161360",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61002,
-            "status": "NS",
-            "name": "SS16 BioBio 2",
-            "slug": "ss16-biobio-2",
-            "score": "vs",
-            "timelive": "16:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789315200,
-            "timestamp": 1789315200,
-            "bd_time": "10:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "WRC",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "161360",
-                    "stream_name": "161360",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "161360",
-                    "stream_name": "161360",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 59343,
-            "status": "NS",
-            "name": "Urawa vs Fagiano Okayama",
-            "slug": "urawa-vs-fagiano-okayama",
-            "score": "vs",
-            "timelive": "09:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789291800,
-            "timestamp": 1789291800,
-            "bd_time": "3:30 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "J1 League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/98.png",
-            "localteam_name": "Urawa",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/287.png",
-            "visitorteam_name": "Fagiano Okayama",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/310.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3-hkhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3-hkhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 59345,
-            "status": "NS",
-            "name": "Gwangju FC vs FC Anyang",
-            "slug": "gwangju-fc-vs-fc-anyang",
-            "score": "vs",
-            "timelive": "10:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789293600,
-            "timestamp": 1789293600,
-            "bd_time": "4:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "K League 1",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/292.png",
-            "localteam_name": "Gwangju FC",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/2759.png",
-            "visitorteam_name": "FC Anyang",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/2748.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00cb/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00cb/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 59348,
-            "status": "NS",
-            "name": "FC Isloch Minsk R. vs FC Gomel",
-            "slug": "fc-isloch-minsk-r-vs-fc-gomel",
-            "score": "vs",
-            "timelive": "10:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789293600,
-            "timestamp": 1789293600,
-            "bd_time": "4:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "Premier League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/116.png",
-            "localteam_name": "FC Isloch Minsk R.",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/391.png",
-            "visitorteam_name": "FC Gomel",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/389.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-69de5d8253f8a6e59495aee7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-69de5d8253f8a6e59495aee7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 59503,
-            "status": "NS",
-            "name": "AVS vs Farense",
-            "slug": "avs-vs-farense",
-            "score": "vs",
-            "timelive": "10:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789293600,
-            "timestamp": 1789293600,
-            "bd_time": "4:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "Segunda Liga",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/95.png",
-            "localteam_name": "AVS",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/21595.png",
-            "visitorteam_name": "Farense",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/231.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0256/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0256/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 08:32:38",
-                    "updated_at": "2026-09-13 08:32:38"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1400,43 +1132,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54387-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54387-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54387-hkhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54387-hkhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54387/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54387/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1467,15 +1199,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464c8/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464c8/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1506,15 +1238,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00de/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00de/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:43",
+                    "updated_at": "2026-09-13 09:47:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1545,29 +1277,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00df-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00df-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00df/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00df/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1598,29 +1330,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8ea436daf8f9c59c03dbfd-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a8ea436daf8f9c59c03dbfd-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8ea436daf8f9c59c03dbfd/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a8ea436daf8f9c59c03dbfd/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:39",
-                    "updated_at": "2026-09-13 08:32:39"
+                    "created_at": "2026-09-13 09:47:44",
+                    "updated_at": "2026-09-13 09:47:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1651,29 +1383,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00f3-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00f3-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00f3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00f3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1704,43 +1436,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54307-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54307-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54307-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54307-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54307/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54307/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1771,43 +1503,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54306-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54306-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54306-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54306-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54306/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54306/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1838,43 +1570,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54303-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54303-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54303-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54303-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54303/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abae9d80a100ce54303/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:46",
+                    "updated_at": "2026-09-13 09:47:46"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1905,15 +1637,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00fb/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00fb/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1944,15 +1676,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1983,15 +1715,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a463/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a463/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2022,15 +1754,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a473/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a473/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2061,15 +1793,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a464/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a464/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2100,29 +1832,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0232-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0232-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0232/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0232/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:40",
-                    "updated_at": "2026-09-13 08:32:40"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2153,15 +1885,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465ce/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465ce/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2192,15 +1924,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465cb/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465cb/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2231,15 +1963,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464c7/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847aba6c031c11fac464c7/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:48",
+                    "updated_at": "2026-09-13 09:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2270,15 +2002,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4a5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:49",
+                    "updated_at": "2026-09-13 09:47:49"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4a5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:49",
+                    "updated_at": "2026-09-13 09:47:49"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2309,15 +2041,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4a4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:49",
+                    "updated_at": "2026-09-13 09:47:49"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4a4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:49",
+                    "updated_at": "2026-09-13 09:47:49"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2348,15 +2080,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0254/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0254/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2387,15 +2119,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:49",
+                    "updated_at": "2026-09-13 09:47:49"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:49",
+                    "updated_at": "2026-09-13 09:47:49"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2426,15 +2158,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a45c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a45c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2465,15 +2197,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2504,29 +2236,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c3-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c3-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a4c3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:41",
-                    "updated_at": "2026-09-13 08:32:41"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2557,29 +2289,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0230-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:42",
-                    "updated_at": "2026-09-13 08:32:42"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0230-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:42",
-                    "updated_at": "2026-09-13 08:32:42"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0230/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:42",
-                    "updated_at": "2026-09-13 08:32:42"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0230/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:42",
-                    "updated_at": "2026-09-13 08:32:42"
+                    "created_at": "2026-09-13 09:47:50",
+                    "updated_at": "2026-09-13 09:47:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2610,15 +2342,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0255/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:42",
-                    "updated_at": "2026-09-13 08:32:42"
+                    "created_at": "2026-09-13 09:47:51",
+                    "updated_at": "2026-09-13 09:47:51"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0255/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:42",
-                    "updated_at": "2026-09-13 08:32:42"
+                    "created_at": "2026-09-13 09:47:51",
+                    "updated_at": "2026-09-13 09:47:51"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2649,29 +2381,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fa-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:51",
+                    "updated_at": "2026-09-13 09:47:51"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fa-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:51",
+                    "updated_at": "2026-09-13 09:47:51"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fa/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:51",
+                    "updated_at": "2026-09-13 09:47:51"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fa/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:51",
+                    "updated_at": "2026-09-13 09:47:51"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2702,15 +2434,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f6/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f6/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2741,15 +2473,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465cc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:53",
+                    "updated_at": "2026-09-13 09:47:53"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465cc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:53",
+                    "updated_at": "2026-09-13 09:47:53"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2780,29 +2512,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0257-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:53",
+                    "updated_at": "2026-09-13 09:47:53"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0257-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:53",
+                    "updated_at": "2026-09-13 09:47:53"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0257/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:53",
+                    "updated_at": "2026-09-13 09:47:53"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0257/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:53",
+                    "updated_at": "2026-09-13 09:47:53"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2833,29 +2565,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd024f-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd024f-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd024f/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd024f/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:43",
-                    "updated_at": "2026-09-13 08:32:43"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2886,15 +2618,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a7e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a7e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:54",
+                    "updated_at": "2026-09-13 09:47:54"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2925,29 +2657,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0233-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0233-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0233/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0233/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2978,29 +2710,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6d1-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6d1-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6d1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6d1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3031,15 +2763,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a461/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a461/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3070,15 +2802,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a45e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a45e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3109,15 +2841,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0241/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0241/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3148,15 +2880,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0240/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0240/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3187,15 +2919,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6d8/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6d8/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3226,15 +2958,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465f5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3265,203 +2997,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daff6/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daff6/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 08:32:44",
-                    "updated_at": "2026-09-13 08:32:44"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61711,
-            "status": "NS",
-            "name": "England vs Pakistan",
-            "slug": "england-vs-pakistan",
-            "score": "vs",
-            "timelive": "10:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789293600,
-            "timestamp": 1789293600,
-            "bd_time": "4:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "3rd Test",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "289",
-                    "stream_name": "289",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/289_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "289",
-                    "stream_name": "289",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61712,
-            "status": "NS",
-            "name": "Afghanistan vs India",
-            "slug": "afghanistan-vs-india",
-            "score": "vs",
-            "timelive": "13:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789306200,
-            "timestamp": 1789306200,
-            "bd_time": "7:30 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "1st T20I",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61713,
-            "status": "NS",
-            "name": "Warriors vs Tridents",
-            "slug": "warriors-vs-tridents",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789322400,
-            "timestamp": 1789322400,
-            "bd_time": "12:00 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "WCPL",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61714,
-            "status": "NS",
-            "name": "Tridents vs Warriors",
-            "slug": "tridents-vs-warriors",
-            "score": "vs",
-            "timelive": "23:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789340400,
-            "timestamp": 1789340400,
-            "bd_time": "5:00 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "CPL",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3496,8 +3040,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "id": "",
@@ -3507,8 +3051,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3543,8 +3087,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "id": "",
@@ -3554,8 +3098,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3590,8 +3134,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
                 },
                 {
                     "id": "",
@@ -3601,8 +3145,222 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:57",
+                    "updated_at": "2026-09-13 09:47:57"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 64131,
+            "status": "NS",
+            "name": "Spanish Grand Prix 2026",
+            "slug": "spanish-grand-prix-2026",
+            "score": "vs",
+            "timelive": "11:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789299000,
+            "timestamp": 1789299000,
+            "bd_time": "5:30 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "Grand Prix Sunday",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "239",
+                    "stream_name": "239",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "239",
+                    "stream_name": "239",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 64132,
+            "status": "NS",
+            "name": "Spanish Grand Prix 2026",
+            "slug": "spanish-grand-prix-2026",
+            "score": "vs",
+            "timelive": "12:55",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789304100,
+            "timestamp": 1789304100,
+            "bd_time": "6:55 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "Formula 1 Main Race",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "263",
+                    "stream_name": "263",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/263_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "263",
+                    "stream_name": "263",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/263_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "239",
+                    "stream_name": "239",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 3,
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "239",
+                    "stream_name": "239",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 4,
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61001,
+            "status": "NS",
+            "name": "SS14 BioBio 1",
+            "slug": "ss14-biobio-1",
+            "score": "vs",
+            "timelive": "13:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789304400,
+            "timestamp": 1789304400,
+            "bd_time": "7:00 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "WRC",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "161360",
+                    "stream_name": "161360",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "161360",
+                    "stream_name": "161360",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61002,
+            "status": "NS",
+            "name": "SS16 BioBio 2",
+            "slug": "ss16-biobio-2",
+            "score": "vs",
+            "timelive": "16:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789315200,
+            "timestamp": 1789315200,
+            "bd_time": "10:00 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "WRC",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "161360",
+                    "stream_name": "161360",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "161360",
+                    "stream_name": "161360",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3637,8 +3395,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 },
                 {
                     "id": "",
@@ -3648,8 +3406,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3684,8 +3442,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 },
                 {
                     "id": "",
@@ -3695,8 +3453,149 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61712,
+            "status": "NS",
+            "name": "Afghanistan vs India",
+            "slug": "afghanistan-vs-india",
+            "score": "vs",
+            "timelive": "13:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789306200,
+            "timestamp": 1789306200,
+            "bd_time": "7:30 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "1st T20I",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61713,
+            "status": "NS",
+            "name": "Warriors vs Tridents",
+            "slug": "warriors-vs-tridents",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789322400,
+            "timestamp": 1789322400,
+            "bd_time": "12:00 AM 14-09-2026",
+            "ishot": false,
+            "league_name": "WCPL",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61714,
+            "status": "NS",
+            "name": "Tridents vs Warriors",
+            "slug": "tridents-vs-warriors",
+            "score": "vs",
+            "timelive": "23:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789340400,
+            "timestamp": 1789340400,
+            "bd_time": "5:00 AM 14-09-2026",
+            "ishot": false,
+            "league_name": "CPL",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3731,8 +3630,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 },
                 {
                     "id": "",
@@ -3742,8 +3641,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:45",
-                    "updated_at": "2026-09-13 08:32:45"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3778,8 +3677,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:47:59",
+                    "updated_at": "2026-09-13 09:47:59"
                 },
                 {
                     "id": "",
@@ -3789,8 +3688,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:47:59",
+                    "updated_at": "2026-09-13 09:47:59"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3825,8 +3724,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 },
                 {
                     "id": "",
@@ -3836,8 +3735,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:47:58",
+                    "updated_at": "2026-09-13 09:47:58"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3872,8 +3771,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -3883,8 +3782,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3919,8 +3818,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -3930,8 +3829,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3966,8 +3865,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -3977,8 +3876,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4013,8 +3912,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -4024,8 +3923,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4060,8 +3959,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -4071,8 +3970,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4107,8 +4006,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -4118,8 +4017,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4154,8 +4053,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -4165,8 +4064,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4201,8 +4100,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -4212,8 +4111,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4248,8 +4147,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -4259,8 +4158,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4295,8 +4194,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 },
                 {
                     "id": "",
@@ -4306,8 +4205,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:00",
+                    "updated_at": "2026-09-13 09:48:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4342,8 +4241,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4353,8 +4252,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4389,8 +4288,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 },
                 {
                     "id": "",
@@ -4400,8 +4299,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4436,8 +4335,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4447,8 +4346,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4483,8 +4382,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4494,8 +4393,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4530,8 +4429,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4541,8 +4440,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4577,8 +4476,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4588,8 +4487,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4624,8 +4523,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4635,8 +4534,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4671,8 +4570,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4682,8 +4581,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:46",
-                    "updated_at": "2026-09-13 08:32:46"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4718,8 +4617,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4729,8 +4628,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4765,8 +4664,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 },
                 {
                     "id": "",
@@ -4776,8 +4675,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:01",
+                    "updated_at": "2026-09-13 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4812,8 +4711,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 },
                 {
                     "id": "",
@@ -4823,8 +4722,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4859,8 +4758,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 },
                 {
                     "id": "",
@@ -4870,8 +4769,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4906,8 +4805,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 },
                 {
                     "id": "",
@@ -4917,8 +4816,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4953,8 +4852,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 },
                 {
                     "id": "",
@@ -4964,8 +4863,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -5000,8 +4899,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 },
                 {
                     "id": "",
@@ -5011,8 +4910,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -5048,8 +4947,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 },
                 {
                     "id": "",
@@ -5060,8 +4959,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 08:32:47",
-                    "updated_at": "2026-09-13 08:32:47"
+                    "created_at": "2026-09-13 09:48:02",
+                    "updated_at": "2026-09-13 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
