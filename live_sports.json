@@ -3,118 +3,20 @@
         "name": "Axsports Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "2:02:25 AM 14-09-2026",
+        "last_update_time": "2:17:23 AM 14-09-2026",
         "statistics": {
-            "total_live": 34,
-            "total_upcoming": 33
+            "total_live": 33,
+            "total_upcoming": 32
         }
     },
     "matches": [
-        {
-            "id": 44146,
-            "status": "2H",
-            "name": "Sassuolo vs Juventus",
-            "slug": "sassuolo-vs-juventus",
-            "score": "vs",
-            "timelive": "59",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789325100,
-            "timestamp": 1789325100,
-            "bd_time": "12:45 AM 14-09-2026",
-            "ishot": true,
-            "league_name": "Serie A",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/135.png",
-            "localteam_name": "Sassuolo",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/488.png",
-            "visitorteam_name": "Juventus",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/496.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-hd/index.m3u8",
-                    "display_name": "GHD",
-                    "line": "global",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-hd/chunks.m3u8?is_vip=false&token=1789416146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2eb04f8b19775b08c4cf33e783e4b2d7"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-hd/index.m3u8",
-                    "display_name": "GHD",
-                    "line": "global",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "fhd",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "fhd",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-backup/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-backup/chunks.m3u8?is_vip=false&token=1789416148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1e3bec2c8e24c1912ea2b6e588b05eff"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-backup/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-twhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-twhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390/chunks.m3u8?is_vip=false&token=1789416149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-529c801c8ab0f61eb9aba02313bb7714"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 20:01:48",
-                    "updated_at": "2026-09-13 20:01:48"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
         {
             "id": 45259,
             "status": "2H",
             "name": "Stade Brestois 29 vs Paris Saint Germain",
             "slug": "stade-brestois-29-vs-paris-saint-germain",
             "score": "vs",
-            "timelive": "55",
+            "timelive": "70",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
@@ -133,46 +35,116 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:02:29",
-                    "updated_at": "2026-09-13 20:02:29",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-hd/chunks.m3u8?is_vip=false&token=1789416150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-afc525e909a4307803d09f59b136caf9"
+                    "created_at": "2026-09-13 20:17:13",
+                    "updated_at": "2026-09-13 20:17:13",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-hd/chunks.m3u8?is_vip=false&token=1789417044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9d31c5f7ae22d08e14e939868984d3ff"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:02:29",
-                    "updated_at": "2026-09-13 20:02:29"
+                    "created_at": "2026-09-13 20:17:13",
+                    "updated_at": "2026-09-13 20:17:13"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:02:29",
-                    "updated_at": "2026-09-13 20:02:29",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-backup/chunks.m3u8?is_vip=false&token=1789416151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ded060411cab2c8fb941db40aec1c42e"
+                    "created_at": "2026-09-13 20:17:13",
+                    "updated_at": "2026-09-13 20:17:13",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-backup/chunks.m3u8?is_vip=false&token=1789417045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5f41a0b98b9d38966552bb7a38bb16c5"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:02:29",
-                    "updated_at": "2026-09-13 20:02:29"
+                    "created_at": "2026-09-13 20:17:13",
+                    "updated_at": "2026-09-13 20:17:13"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:02:29",
-                    "updated_at": "2026-09-13 20:02:29",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd/chunks.m3u8?is_vip=false&token=1789416152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1023eb7c54b9fa881637fcd63d650df6"
+                    "created_at": "2026-09-13 20:17:13",
+                    "updated_at": "2026-09-13 20:17:13",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd/chunks.m3u8?is_vip=false&token=1789417045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ef1378864c1ce98f5176afb11d315ec"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffd/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:02:29",
-                    "updated_at": "2026-09-13 20:02:29"
+                    "created_at": "2026-09-13 20:17:13",
+                    "updated_at": "2026-09-13 20:17:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 44146,
+            "status": "2H",
+            "name": "Sassuolo vs Juventus",
+            "slug": "sassuolo-vs-juventus",
+            "score": "vs",
+            "timelive": "74",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789325100,
+            "timestamp": 1789325100,
+            "bd_time": "12:45 AM 14-09-2026",
+            "ishot": true,
+            "league_name": "Serie A",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/135.png",
+            "localteam_name": "Sassuolo",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/488.png",
+            "visitorteam_name": "Juventus",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/496.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "created_at": "2026-09-13 20:16:44",
+                    "updated_at": "2026-09-13 20:16:44",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-hd/chunks.m3u8?is_vip=false&token=1789417046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-60b66438e3035876350e8711cebcd58c"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "created_at": "2026-09-13 20:16:44",
+                    "updated_at": "2026-09-13 20:16:44"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-backup/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-13 20:16:44",
+                    "updated_at": "2026-09-13 20:16:44",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-backup/chunks.m3u8?is_vip=false&token=1789417047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fad2cebd87c31b2a11da1c747e6c30ce"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390-backup/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-13 20:16:44",
+                    "updated_at": "2026-09-13 20:16:44"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-13 20:16:44",
+                    "updated_at": "2026-09-13 20:16:44",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390/chunks.m3u8?is_vip=false&token=1789417048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6ca16d6737ff299ee9f86126f0d55439"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a390/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-13 20:16:44",
+                    "updated_at": "2026-09-13 20:16:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -180,11 +152,11 @@
         },
         {
             "id": 43760,
-            "status": "HT",
+            "status": "2H",
             "name": "Real Sociedad vs Atletico Madrid",
             "slug": "real-sociedad-vs-atletico-madrid",
             "score": "vs",
-            "timelive": "45",
+            "timelive": "56",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
@@ -203,122 +175,61 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-hd/chunks.m3u8?is_vip=false&token=1789417049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-250e01f1fd1943327e0f968a375dd757"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-fhd/chunks.m3u8?is_vip=false&token=1789416154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-07a0d44ba91213e3e282b44b186fec9a"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-fhd/chunks.m3u8?is_vip=false&token=1789417050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5965d3fcecbee111c03dacee063a3670"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-backup/chunks.m3u8?is_vip=false&token=1789416154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-65f3266aa942c836d50b1c906e29979e"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-backup/chunks.m3u8?is_vip=false&token=1789417050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8460a85d551583a56f103b20d7eacaf3"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-twhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013-twhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013/chunks.m3u8?is_vip=false&token=1789416156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-398164c58466bd0649cd64dd8aba7ba8"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013/chunks.m3u8?is_vip=false&token=1789417051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-12b8bc40587f57d8345676e275e9011e"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0013/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:02:33",
-                    "updated_at": "2026-09-13 20:02:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 64115,
-            "status": "LIVE",
-            "name": "Flanders Darts Trophy | Day 3 - Evening Session",
-            "slug": "flanders-darts-trophy-day-3-evening-session",
-            "score": "vs",
-            "timelive": "17:00",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789318800,
-            "timestamp": 1789318800,
-            "bd_time": "11:00 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "European Tour",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "114414",
-                    "stream_name": "114414",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/114414_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:02:17",
-                    "updated_at": "2026-09-13 20:02:17"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "114414",
-                    "stream_name": "114414",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:02:17",
-                    "updated_at": "2026-09-13 20:02:17",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789416157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1f225af60fc94c7e65b85d2dbf8e108a"
+                    "created_at": "2026-09-13 20:16:31",
+                    "updated_at": "2026-09-13 20:16:31"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -354,8 +265,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:38",
-                    "updated_at": "2026-09-13 20:02:38"
+                    "created_at": "2026-09-13 20:17:32",
+                    "updated_at": "2026-09-13 20:17:32"
                 },
                 {
                     "id": "",
@@ -366,9 +277,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:38",
-                    "updated_at": "2026-09-13 20:02:38",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52461/720p/chunks.m3u8?is_vip=false&token=1789416158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2685bb8a8f226e17cf670307af30de0a"
+                    "created_at": "2026-09-13 20:17:32",
+                    "updated_at": "2026-09-13 20:17:32",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52461/720p/chunks.m3u8?is_vip=false&token=1789417052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-783dd6d866dee57c5649fa81901c0104"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -404,8 +315,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:39",
-                    "updated_at": "2026-09-13 20:02:39"
+                    "created_at": "2026-09-13 20:17:33",
+                    "updated_at": "2026-09-13 20:17:33"
                 },
                 {
                     "id": "",
@@ -416,9 +327,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:39",
-                    "updated_at": "2026-09-13 20:02:39",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52460/720p/chunks.m3u8?is_vip=false&token=1789416159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-495d6ae0d1c647d1cd635cd6b5bb07f0"
+                    "created_at": "2026-09-13 20:17:33",
+                    "updated_at": "2026-09-13 20:17:33",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52460/720p/chunks.m3u8?is_vip=false&token=1789417054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d12ebbd43029383231ee877b86f3718"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -454,8 +365,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:01:46",
-                    "updated_at": "2026-09-13 20:01:46"
+                    "created_at": "2026-09-13 20:17:34",
+                    "updated_at": "2026-09-13 20:17:34"
                 },
                 {
                     "id": "",
@@ -466,9 +377,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:01:46",
-                    "updated_at": "2026-09-13 20:01:46",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52464/720p/chunks.m3u8?is_vip=false&token=1789416161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f106ca8bb93af623e97f9d6e6f81128f"
+                    "created_at": "2026-09-13 20:17:34",
+                    "updated_at": "2026-09-13 20:17:34",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52464/720p/chunks.m3u8?is_vip=false&token=1789417055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88db2f64b9226c8bac03affba5d83ec7"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -504,8 +415,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:41",
-                    "updated_at": "2026-09-13 20:02:41"
+                    "created_at": "2026-09-13 20:17:35",
+                    "updated_at": "2026-09-13 20:17:35"
                 },
                 {
                     "id": "",
@@ -516,9 +427,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:41",
-                    "updated_at": "2026-09-13 20:02:41",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52462/720p/chunks.m3u8?is_vip=false&token=1789416162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8af2bf754b10af90b72cbaf2d5bc1657"
+                    "created_at": "2026-09-13 20:17:35",
+                    "updated_at": "2026-09-13 20:17:35",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52462/720p/chunks.m3u8?is_vip=false&token=1789417056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-18c27172c0438a47b95cd57d2b42a365"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -554,8 +465,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:42",
-                    "updated_at": "2026-09-13 20:02:42"
+                    "created_at": "2026-09-13 20:17:36",
+                    "updated_at": "2026-09-13 20:17:36"
                 },
                 {
                     "id": "",
@@ -566,9 +477,57 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:42",
-                    "updated_at": "2026-09-13 20:02:42",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463/720p/chunks.m3u8?is_vip=false&token=1789416163-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dce77cee3d2f91396ae260f3124a8e09"
+                    "created_at": "2026-09-13 20:17:36",
+                    "updated_at": "2026-09-13 20:17:36",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463/720p/chunks.m3u8?is_vip=false&token=1789417056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd0d7284eac86fc1d932348438fb5734"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 64115,
+            "status": "LIVE",
+            "name": "Flanders Darts Trophy | Day 3 - Evening Session",
+            "slug": "flanders-darts-trophy-day-3-evening-session",
+            "score": "vs",
+            "timelive": "17:00",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789318800,
+            "timestamp": 1789318800,
+            "bd_time": "11:00 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "European Tour",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "114414",
+                    "stream_name": "114414",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/114414_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:37",
+                    "updated_at": "2026-09-13 20:17:37"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "114414",
+                    "stream_name": "114414",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:37",
+                    "updated_at": "2026-09-13 20:17:37",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789417058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9c7a133742313b3b6b16ec285255949"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -604,8 +563,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:43",
-                    "updated_at": "2026-09-13 20:02:43"
+                    "created_at": "2026-09-13 20:17:38",
+                    "updated_at": "2026-09-13 20:17:38"
                 },
                 {
                     "id": "",
@@ -616,9 +575,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:43",
-                    "updated_at": "2026-09-13 20:02:43",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52459/720p/chunks.m3u8?is_vip=false&token=1789416164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4962406ad578746f63424617cbd51bd2"
+                    "created_at": "2026-09-13 20:17:38",
+                    "updated_at": "2026-09-13 20:17:38",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52459/720p/chunks.m3u8?is_vip=false&token=1789417059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e594a8c3ac6a916ab5597f46573c502b"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -654,8 +613,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:44",
-                    "updated_at": "2026-09-13 20:02:44"
+                    "created_at": "2026-09-13 20:17:39",
+                    "updated_at": "2026-09-13 20:17:39"
                 },
                 {
                     "id": "",
@@ -666,9 +625,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:44",
-                    "updated_at": "2026-09-13 20:02:44",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52458/720p/chunks.m3u8?is_vip=false&token=1789416165-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3ccbe18ff6af228595e5b9b6e3b4024d"
+                    "created_at": "2026-09-13 20:17:39",
+                    "updated_at": "2026-09-13 20:17:39",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52458/720p/chunks.m3u8?is_vip=false&token=1789417060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-debe64a54869afbe8c0c1bda5690db9c"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -704,8 +663,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:45",
-                    "updated_at": "2026-09-13 20:02:45"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40"
                 },
                 {
                     "id": "",
@@ -716,9 +675,57 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:45",
-                    "updated_at": "2026-09-13 20:02:45",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52457/720p/chunks.m3u8?is_vip=false&token=1789416166-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-10ef4d0e73c7e7001158ae7b7031de8f"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52457/720p/chunks.m3u8?is_vip=false&token=1789417061-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b8cad8fe2113c2e02f426f3fda4fe20e"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61732,
+            "status": "LIVE",
+            "name": "Baltimore Orioles vs Toronto Blue Jays",
+            "slug": "baltimore-orioles-vs-toronto-blue-jays",
+            "score": "vs",
+            "timelive": "17:35",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789320900,
+            "timestamp": 1789320900,
+            "bd_time": "11:35 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "MLB",
+            "league_logo": "",
+            "localteam_name": "Baltimore Orioles",
+            "localteam_logo": "",
+            "visitorteam_name": "Toronto Blue Jays",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55839",
+                    "stream_name": "55839",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:42",
+                    "updated_at": "2026-09-13 20:17:42"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55839",
+                    "stream_name": "55839",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:42",
+                    "updated_at": "2026-09-13 20:17:42",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789417062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3af712a4b42627181a8ca0e2b119858"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -754,8 +761,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:46",
-                    "updated_at": "2026-09-13 20:02:46"
+                    "created_at": "2026-09-13 20:17:43",
+                    "updated_at": "2026-09-13 20:17:43"
                 },
                 {
                     "id": "",
@@ -766,9 +773,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:46",
-                    "updated_at": "2026-09-13 20:02:46",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789416166-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af571a74e778fcc95093d254491c1e09"
+                    "created_at": "2026-09-13 20:17:43",
+                    "updated_at": "2026-09-13 20:17:43",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789417063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af8a3b6a1aaaf6a1c947345925484ccd"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -804,8 +811,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:47",
-                    "updated_at": "2026-09-13 20:02:47"
+                    "created_at": "2026-09-13 20:17:44",
+                    "updated_at": "2026-09-13 20:17:44"
                 },
                 {
                     "id": "",
@@ -816,9 +823,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:47",
-                    "updated_at": "2026-09-13 20:02:47",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1789416167-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f5a620e39621c4949a8deede1fb149a"
+                    "created_at": "2026-09-13 20:17:44",
+                    "updated_at": "2026-09-13 20:17:44",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1789417064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4587b74624a0494fdaced3746628f163"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -854,8 +861,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:13",
-                    "updated_at": "2026-09-13 20:02:13"
+                    "created_at": "2026-09-13 20:17:45",
+                    "updated_at": "2026-09-13 20:17:45"
                 },
                 {
                     "id": "",
@@ -866,9 +873,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:13",
-                    "updated_at": "2026-09-13 20:02:13",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1789416169-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-19e9c547db929eedebff0f8a9c492394"
+                    "created_at": "2026-09-13 20:17:45",
+                    "updated_at": "2026-09-13 20:17:45",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1789417065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7969745c7d48cddd3348de6e7aa7e87d"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -904,8 +911,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:50",
-                    "updated_at": "2026-09-13 20:02:50"
+                    "created_at": "2026-09-13 20:17:46",
+                    "updated_at": "2026-09-13 20:17:46"
                 },
                 {
                     "id": "",
@@ -916,107 +923,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:50",
-                    "updated_at": "2026-09-13 20:02:50",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789416170-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-551ae4e3ecf968ea0d46a00bc002d9aa"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61732,
-            "status": "LIVE",
-            "name": "Baltimore Orioles vs Toronto Blue Jays",
-            "slug": "baltimore-orioles-vs-toronto-blue-jays",
-            "score": "vs",
-            "timelive": "17:35",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789320900,
-            "timestamp": 1789320900,
-            "bd_time": "11:35 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "MLB",
-            "league_logo": "",
-            "localteam_name": "Baltimore Orioles",
-            "localteam_logo": "",
-            "visitorteam_name": "Toronto Blue Jays",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55839",
-                    "stream_name": "55839",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:02:51",
-                    "updated_at": "2026-09-13 20:02:51"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55839",
-                    "stream_name": "55839",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:02:51",
-                    "updated_at": "2026-09-13 20:02:51",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1789416171-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6abd80780b9130f646c3a04f317f7bf"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61733,
-            "status": "LIVE",
-            "name": "Los Angeles Dodgers vs Miami Marlins",
-            "slug": "los-angeles-dodgers-vs-miami-marlins",
-            "score": "vs",
-            "timelive": "17:40",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789321200,
-            "timestamp": 1789321200,
-            "bd_time": "11:40 PM 13-09-2026",
-            "ishot": false,
-            "league_name": "MLB",
-            "league_logo": "",
-            "localteam_name": "Los Angeles Dodgers",
-            "localteam_logo": "",
-            "visitorteam_name": "Miami Marlins",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55841",
-                    "stream_name": "55841",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-13 20:02:52",
-                    "updated_at": "2026-09-13 20:02:52"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55841",
-                    "stream_name": "55841",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-13 20:02:52",
-                    "updated_at": "2026-09-13 20:02:52",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789416172-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dec076787fa66818e2d585ecec35fb01"
+                    "created_at": "2026-09-13 20:17:46",
+                    "updated_at": "2026-09-13 20:17:46",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789417066-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-703eaa3a520384b10394f3bda5407e02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1052,8 +961,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:53",
-                    "updated_at": "2026-09-13 20:02:53"
+                    "created_at": "2026-09-13 20:17:47",
+                    "updated_at": "2026-09-13 20:17:47"
                 },
                 {
                     "id": "",
@@ -1064,9 +973,59 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:53",
-                    "updated_at": "2026-09-13 20:02:53",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789416173-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34dc25368644ccfcd4ff0e4acfb68294"
+                    "created_at": "2026-09-13 20:17:47",
+                    "updated_at": "2026-09-13 20:17:47",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789417067-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4e338270200ad367a51d71791bbe5487"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61733,
+            "status": "LIVE",
+            "name": "Los Angeles Dodgers vs Miami Marlins",
+            "slug": "los-angeles-dodgers-vs-miami-marlins",
+            "score": "vs",
+            "timelive": "17:40",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789321200,
+            "timestamp": 1789321200,
+            "bd_time": "11:40 PM 13-09-2026",
+            "ishot": false,
+            "league_name": "MLB",
+            "league_logo": "",
+            "localteam_name": "Los Angeles Dodgers",
+            "localteam_logo": "",
+            "visitorteam_name": "Miami Marlins",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55841",
+                    "stream_name": "55841",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-13 20:17:48",
+                    "updated_at": "2026-09-13 20:17:48"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55841",
+                    "stream_name": "55841",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-13 20:17:48",
+                    "updated_at": "2026-09-13 20:17:48",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1789417068-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b75b9fe0db8c3943f331e118082d88fe"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1102,8 +1061,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:54",
-                    "updated_at": "2026-09-13 20:02:54"
+                    "created_at": "2026-09-13 20:17:49",
+                    "updated_at": "2026-09-13 20:17:49"
                 },
                 {
                     "id": "",
@@ -1114,165 +1073,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:54",
-                    "updated_at": "2026-09-13 20:02:54",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1789416174-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b0efdc8e1e0b8f17a1ee45df4f2dad7c"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 59543,
-            "status": "FT",
-            "name": "Leones Negros UDG vs CA La Paz",
-            "slug": "leones-negros-udg-vs-ca-la-paz",
-            "score": "2 - 2",
-            "timelive": "90",
-            "is_playing": false,
-            "has_ended": true,
-            "is_waiting": false,
-            "start_at": 1789322400,
-            "timestamp": 1789322400,
-            "bd_time": "12:00 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "Liga de Expansión MX",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/263.png",
-            "localteam_name": "Leones Negros UDG",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/2307.png",
-            "visitorteam_name": "CA La Paz",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/19024.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daff9-backup/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:02:55",
-                    "updated_at": "2026-09-13 20:02:55"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daff9-backup/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:02:55",
-                    "updated_at": "2026-09-13 20:02:55"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daff9/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 20:02:55",
-                    "updated_at": "2026-09-13 20:02:55"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daff9/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 20:02:55",
-                    "updated_at": "2026-09-13 20:02:55"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 59544,
-            "status": "2H",
-            "name": "Puebla W vs Querétaro W",
-            "slug": "puebla-w-vs-queretaro-w",
-            "score": "vs",
-            "timelive": "90",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789322400,
-            "timestamp": 1789322400,
-            "bd_time": "12:00 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "Liga MX Femenil",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/673.png",
-            "localteam_name": "Puebla W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/14882.png",
-            "visitorteam_name": "Querétaro W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/14871.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffb-backup/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:02:56",
-                    "updated_at": "2026-09-13 20:02:56",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffb-backup/chunks.m3u8?is_vip=false&token=1789416176-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd69c94248d6181a2ead33c935eda9d3"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffb-backup/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-13 20:02:56",
-                    "updated_at": "2026-09-13 20:02:56"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffb/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 20:02:56",
-                    "updated_at": "2026-09-13 20:02:56",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffb/chunks.m3u8?is_vip=false&token=1789416177-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-48f7eb03a1356dfab6957b6968bb2bdb"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0daffb/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-13 20:02:56",
-                    "updated_at": "2026-09-13 20:02:56"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61713,
-            "status": "LIVE",
-            "name": "Warriors vs Tridents",
-            "slug": "warriors-vs-tridents",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1789322400,
-            "timestamp": 1789322400,
-            "bd_time": "12:00 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "WCPL",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:02:58",
-                    "updated_at": "2026-09-13 20:02:58"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:02:58",
-                    "updated_at": "2026-09-13 20:02:58",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789416178-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f53fd9e99b6b2befe6d7488c04763cd"
+                    "created_at": "2026-09-13 20:17:49",
+                    "updated_at": "2026-09-13 20:17:49",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1789417069-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d466503ac9c5db4278abf7833e18a13c"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1308,8 +1111,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:02:44",
-                    "updated_at": "2026-09-13 20:02:44"
+                    "created_at": "2026-09-13 20:17:15",
+                    "updated_at": "2026-09-13 20:17:15"
                 },
                 {
                     "id": "",
@@ -1320,9 +1123,57 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:02:44",
-                    "updated_at": "2026-09-13 20:02:44",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789416179-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aa2418f6ed9c51a12674c569ae799654"
+                    "created_at": "2026-09-13 20:17:15",
+                    "updated_at": "2026-09-13 20:17:15",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789417070-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0dfff0d1865cb11a4246558c09a73001"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61713,
+            "status": "LIVE",
+            "name": "Warriors vs Tridents",
+            "slug": "warriors-vs-tridents",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789322400,
+            "timestamp": 1789322400,
+            "bd_time": "12:00 AM 14-09-2026",
+            "ishot": false,
+            "league_name": "WCPL",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:51",
+                    "updated_at": "2026-09-13 20:17:51"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:51",
+                    "updated_at": "2026-09-13 20:17:51",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789417072-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61c1418458c064192168f8f5c3dcebc4"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1358,8 +1209,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:03:01",
-                    "updated_at": "2026-09-13 20:03:01"
+                    "created_at": "2026-09-13 20:17:52",
+                    "updated_at": "2026-09-13 20:17:52"
                 },
                 {
                     "id": "",
@@ -1370,9 +1221,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:03:01",
-                    "updated_at": "2026-09-13 20:03:01",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1789416181-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a291c737828cea4203f9dd57592950ed"
+                    "created_at": "2026-09-13 20:17:52",
+                    "updated_at": "2026-09-13 20:17:52",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1789417073-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-521f78957ede4a485d9bf636ba59f4ee"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1408,8 +1259,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-13 20:03:02",
-                    "updated_at": "2026-09-13 20:03:02"
+                    "created_at": "2026-09-13 20:17:53",
+                    "updated_at": "2026-09-13 20:17:53"
                 },
                 {
                     "id": "",
@@ -1420,9 +1271,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-13 20:03:02",
-                    "updated_at": "2026-09-13 20:03:02",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1789416183-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ddea7a84cf2c7636eea4af18fc372513"
+                    "created_at": "2026-09-13 20:17:53",
+                    "updated_at": "2026-09-13 20:17:53",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1789417074-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fce52f02124798a66d9bc99b3fd5923e"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1430,11 +1281,11 @@
         },
         {
             "id": 59483,
-            "status": "HT",
+            "status": "2H",
             "name": "Tenerife vs Leganes",
             "slug": "tenerife-vs-leganes",
             "score": "vs",
-            "timelive": "45",
+            "timelive": "55",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
@@ -1453,46 +1304,46 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:20",
-                    "updated_at": "2026-09-13 20:03:20",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-fhd/chunks.m3u8?is_vip=false&token=1789416200-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-663765438f5e964d04c8998ca5a5aa86"
+                    "created_at": "2026-09-13 20:18:11",
+                    "updated_at": "2026-09-13 20:18:11",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-fhd/chunks.m3u8?is_vip=false&token=1789417091-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-44a1fda3fa63d60490072971bda837c8"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:20",
-                    "updated_at": "2026-09-13 20:03:20"
+                    "created_at": "2026-09-13 20:18:11",
+                    "updated_at": "2026-09-13 20:18:11"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:20",
-                    "updated_at": "2026-09-13 20:03:20",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-backup/chunks.m3u8?is_vip=false&token=1789416201-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a36767f8008b71c1f80e0560860b9f6a"
+                    "created_at": "2026-09-13 20:18:11",
+                    "updated_at": "2026-09-13 20:18:11",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-backup/chunks.m3u8?is_vip=false&token=1789417092-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8c1397a0127790e2d64879468ad6c6f5"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:20",
-                    "updated_at": "2026-09-13 20:03:20"
+                    "created_at": "2026-09-13 20:18:11",
+                    "updated_at": "2026-09-13 20:18:11"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:20",
-                    "updated_at": "2026-09-13 20:03:20",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231/chunks.m3u8?is_vip=false&token=1789416201-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-40573ef55b7428d18b9687e1e6ac5428"
+                    "created_at": "2026-09-13 20:18:11",
+                    "updated_at": "2026-09-13 20:18:11",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231/chunks.m3u8?is_vip=false&token=1789417092-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e29a17a51ce2ea7b5e32f986275e1f4f"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0231/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:20",
-                    "updated_at": "2026-09-13 20:03:20"
+                    "created_at": "2026-09-13 20:18:11",
+                    "updated_at": "2026-09-13 20:18:11"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1500,11 +1351,11 @@
         },
         {
             "id": 59561,
-            "status": "HT",
+            "status": "2H",
             "name": "Mirassol vs Vitoria",
             "slug": "mirassol-vs-vitoria",
             "score": "vs",
-            "timelive": "45",
+            "timelive": "53",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
@@ -1523,31 +1374,31 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:24",
-                    "updated_at": "2026-09-13 20:03:24",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018-backup/chunks.m3u8?is_vip=false&token=1789416204-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd6c299a07d59c96f1ae3e5cfcdb3f74"
+                    "created_at": "2026-09-13 20:18:22",
+                    "updated_at": "2026-09-13 20:18:22",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018-backup/chunks.m3u8?is_vip=false&token=1789417103-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ad3ec099081419ea56ce3ba5495acd6"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:24",
-                    "updated_at": "2026-09-13 20:03:24"
+                    "created_at": "2026-09-13 20:18:22",
+                    "updated_at": "2026-09-13 20:18:22"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:24",
-                    "updated_at": "2026-09-13 20:03:24",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018/chunks.m3u8?is_vip=false&token=1789416205-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f8467ae1df85efcc7cff46c1cab218ec"
+                    "created_at": "2026-09-13 20:18:22",
+                    "updated_at": "2026-09-13 20:18:22",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018/chunks.m3u8?is_vip=false&token=1789417103-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ea2cd28caaf4972bba9e4f2d64ff3136"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db018/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:24",
-                    "updated_at": "2026-09-13 20:03:24"
+                    "created_at": "2026-09-13 20:18:22",
+                    "updated_at": "2026-09-13 20:18:22"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1559,7 +1410,7 @@
             "name": "Famalicao vs Sporting CP",
             "slug": "famalicao-vs-sporting-cp",
             "score": "vs",
-            "timelive": "29",
+            "timelive": "43",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
@@ -1578,46 +1429,46 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:05",
-                    "updated_at": "2026-09-13 20:03:05",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-hd/chunks.m3u8?is_vip=false&token=1789416217-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ef6d8001d0bb38b5c0a9dcbff52741b3"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-hd/chunks.m3u8?is_vip=false&token=1789417108-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36cc339f8231e9ebca3c1d3fdbbf05c3"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:05",
-                    "updated_at": "2026-09-13 20:03:05"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:05",
-                    "updated_at": "2026-09-13 20:03:05",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-backup/chunks.m3u8?is_vip=false&token=1789416217-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d3267498f863fb9e684711222a5b760"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-backup/chunks.m3u8?is_vip=false&token=1789417108-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-52414d753b72c3edb0a239240e441036"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:05",
-                    "updated_at": "2026-09-13 20:03:05"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:05",
-                    "updated_at": "2026-09-13 20:03:05",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d/chunks.m3u8?is_vip=false&token=1789416218-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-882be3c4ef00d4619b71911a1433b98e"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d/chunks.m3u8?is_vip=false&token=1789417109-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a43de1c9afe89416cd646101afe1c2a"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023d/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:05",
-                    "updated_at": "2026-09-13 20:03:05"
+                    "created_at": "2026-09-13 20:17:40",
+                    "updated_at": "2026-09-13 20:17:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1629,7 +1480,7 @@
             "name": "Argentinos JRS vs Gimnasia L.P.",
             "slug": "argentinos-jrs-vs-gimnasia-lp",
             "score": "vs",
-            "timelive": "3",
+            "timelive": "18",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
@@ -1648,31 +1499,31 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:39",
-                    "updated_at": "2026-09-13 20:03:39",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013-backup/chunks.m3u8?is_vip=false&token=1789416219-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a65fbb77f56aaefff023e37491a39b45"
+                    "created_at": "2026-09-13 20:18:30",
+                    "updated_at": "2026-09-13 20:18:30",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013-backup/chunks.m3u8?is_vip=false&token=1789417110-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e38dfbc92324d1d03b58e3b7df9b2673"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013-backup/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:39",
-                    "updated_at": "2026-09-13 20:03:39"
+                    "created_at": "2026-09-13 20:18:30",
+                    "updated_at": "2026-09-13 20:18:30"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:39",
-                    "updated_at": "2026-09-13 20:03:39",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013/chunks.m3u8?is_vip=false&token=1789416220-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-557b74b91b0f5679f54037dd713f7398"
+                    "created_at": "2026-09-13 20:18:30",
+                    "updated_at": "2026-09-13 20:18:30",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013/chunks.m3u8?is_vip=false&token=1789417111-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3931e8798d3b553593209424d35a2a3b"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db013/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:39",
-                    "updated_at": "2026-09-13 20:03:39"
+                    "created_at": "2026-09-13 20:18:30",
+                    "updated_at": "2026-09-13 20:18:30"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1707,8 +1558,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:41",
-                    "updated_at": "2026-09-13 20:03:41"
+                    "created_at": "2026-09-13 20:18:32",
+                    "updated_at": "2026-09-13 20:18:32"
                 },
                 {
                     "id": "",
@@ -1718,9 +1569,9 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:41",
-                    "updated_at": "2026-09-13 20:03:41",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=1789416221-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2086b1e08c2f4a2f7903dad8f8afa28d"
+                    "created_at": "2026-09-13 20:18:32",
+                    "updated_at": "2026-09-13 20:18:32",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=1789417112-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9188273caa08463f31a803a3547117c3"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1755,8 +1606,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:43",
-                    "updated_at": "2026-09-13 20:03:43"
+                    "created_at": "2026-09-13 20:18:33",
+                    "updated_at": "2026-09-13 20:18:33"
                 },
                 {
                     "id": "",
@@ -1766,9 +1617,153 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:43",
-                    "updated_at": "2026-09-13 20:03:43",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1789416223-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8eaaaf73ee41dce3d13ce940125c3291"
+                    "created_at": "2026-09-13 20:18:33",
+                    "updated_at": "2026-09-13 20:18:33",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1789417114-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e9c232f1e87738f120d5241bb072acf"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61725,
+            "status": "LIVE",
+            "name": "Miami Dolphins vs Las Vegas Raiders",
+            "slug": "miami-dolphins-vs-las-vegas-raiders",
+            "score": "vs",
+            "timelive": "20:25",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789331100,
+            "timestamp": 1789331100,
+            "bd_time": "2:25 AM 14-09-2026",
+            "ishot": false,
+            "league_name": "NFL",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "52465",
+                    "stream_name": "52465",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52465_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:18:36",
+                    "updated_at": "2026-09-13 20:18:36"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "52465",
+                    "stream_name": "52465",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52465_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:18:36",
+                    "updated_at": "2026-09-13 20:18:36",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52465/720p/chunks.m3u8?is_vip=false&token=1789417117-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eea87f7e1a7794a07d665efc89e1ea61"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61724,
+            "status": "LIVE",
+            "name": "Green Bay Packers vs Minnesota Vikings",
+            "slug": "green-bay-packers-vs-minnesota-vikings",
+            "score": "vs",
+            "timelive": "20:25",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789331100,
+            "timestamp": 1789331100,
+            "bd_time": "2:25 AM 14-09-2026",
+            "ishot": false,
+            "league_name": "NFL",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "52464",
+                    "stream_name": "52464",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52464_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:18:37",
+                    "updated_at": "2026-09-13 20:18:37"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "52464",
+                    "stream_name": "52464",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52464_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:18:37",
+                    "updated_at": "2026-09-13 20:18:37",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52464/720p/chunks.m3u8?is_vip=false&token=1789417118-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3921af27eb9b1451e023c49a2d932d3f"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61723,
+            "status": "LIVE",
+            "name": "Arizona Cardinals vs Los Angeles Chargers",
+            "slug": "arizona-cardinals-vs-los-angeles-chargers",
+            "score": "vs",
+            "timelive": "20:25",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1789331100,
+            "timestamp": 1789331100,
+            "bd_time": "2:25 AM 14-09-2026",
+            "ishot": false,
+            "league_name": "NFL",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "52463",
+                    "stream_name": "52463",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52463_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:44",
+                    "updated_at": "2026-09-13 20:17:44"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "52463",
+                    "stream_name": "52463",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:17:44",
+                    "updated_at": "2026-09-13 20:17:44",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463/720p/chunks.m3u8?is_vip=false&token=1789417119-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd32459e51175d36921d8a3adf4f27c1"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1799,43 +1794,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00dc-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00dc-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00dc-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00dc-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00dc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00dc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1866,43 +1861,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a497-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a497-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a497-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a497-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a497/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a497/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1933,43 +1928,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad6-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad6-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad6-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad6-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad6/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad6/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2000,29 +1995,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad9-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad9-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad9/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad9/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2053,234 +2048,43 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0011-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0011-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0011-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0011-twhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0011/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0011/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61723,
-            "status": "LIVE",
-            "name": "Arizona Cardinals vs Los Angeles Chargers",
-            "slug": "arizona-cardinals-vs-los-angeles-chargers",
-            "score": "vs",
-            "timelive": "20:25",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789331100,
-            "timestamp": 1789331100,
-            "bd_time": "2:25 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "NFL",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "52463",
-                    "stream_name": "52463",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52463_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "52463",
-                    "stream_name": "52463",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463/720p/chunks.m3u8?is_vip=false&token=1789416227-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-67afb2772daad6807a9de776834aef81"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61724,
-            "status": "LIVE",
-            "name": "Green Bay Packers vs Minnesota Vikings",
-            "slug": "green-bay-packers-vs-minnesota-vikings",
-            "score": "vs",
-            "timelive": "20:25",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789331100,
-            "timestamp": 1789331100,
-            "bd_time": "2:25 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "NFL",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "52464",
-                    "stream_name": "52464",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52464_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "52464",
-                    "stream_name": "52464",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52464_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52464/720p/chunks.m3u8?is_vip=false&token=1789416226-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30b71700be5870bba83754739ec41c11"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61725,
-            "status": "LIVE",
-            "name": "Miami Dolphins vs Las Vegas Raiders",
-            "slug": "miami-dolphins-vs-las-vegas-raiders",
-            "score": "vs",
-            "timelive": "20:25",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789331100,
-            "timestamp": 1789331100,
-            "bd_time": "2:25 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "NFL",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "52465",
-                    "stream_name": "52465",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52465_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "52465",
-                    "stream_name": "52465",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52465_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52465/720p/chunks.m3u8?is_vip=false&token=1789416227-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-86fe419b08d8cd3a50701b81872b9adf"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 61727,
-            "status": "NS",
-            "name": "Dallas Cowboys vs New York Giants",
-            "slug": "dallas-cowboys-vs-new-york-giants",
-            "score": "vs",
-            "timelive": "00:20",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1789345200,
-            "timestamp": 1789345200,
-            "bd_time": "6:20 AM 14-09-2026",
-            "ishot": false,
-            "league_name": "NFL",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "52467",
-                    "stream_name": "52467",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52467_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "52467",
-                    "stream_name": "52467",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52467_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:46",
-                    "updated_at": "2026-09-13 20:03:46"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2311,29 +2115,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6eb-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:48",
-                    "updated_at": "2026-09-13 20:03:48"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6eb-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:48",
-                    "updated_at": "2026-09-13 20:03:48"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6eb/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:48",
-                    "updated_at": "2026-09-13 20:03:48"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6eb/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:48",
-                    "updated_at": "2026-09-13 20:03:48"
+                    "created_at": "2026-09-13 20:18:40",
+                    "updated_at": "2026-09-13 20:18:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2364,29 +2168,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00b-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00b-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00b/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00b/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2417,29 +2221,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ea-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ea-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ea/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ea/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2470,15 +2274,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ec/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ec/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:49",
-                    "updated_at": "2026-09-13 20:03:49"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2509,15 +2313,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ed/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ed/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2548,15 +2352,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ee/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ee/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2587,15 +2391,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d8896e1cc910f0db00c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:41",
+                    "updated_at": "2026-09-13 20:18:41"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2626,29 +2430,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f5-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f5-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2679,15 +2483,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f3/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2718,29 +2522,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f4-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f4-hd/index.m3u8",
                     "display_name": "GHD",
                     "line": "global",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6f4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:50",
-                    "updated_at": "2026-09-13 20:03:50"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2771,15 +2575,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ff/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe6ff/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2810,15 +2614,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe709/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a871d886c5a23a8c2ffe709/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:42",
+                    "updated_at": "2026-09-13 20:18:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2849,29 +2653,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fc-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fc-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2902,15 +2706,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abd/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abd/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2941,15 +2745,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abc/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2980,15 +2784,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a45d/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a45d/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3019,15 +2823,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0253/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0253/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3058,15 +2862,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0250/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0250/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:51",
-                    "updated_at": "2026-09-13 20:03:51"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3097,15 +2901,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abe/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abe/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3136,15 +2940,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad4/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3175,15 +2979,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:43",
+                    "updated_at": "2026-09-13 20:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3214,29 +3018,29 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad7-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad7-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad7/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ad7/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3267,15 +3071,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd023c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3310,8 +3114,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 },
                 {
                     "id": "",
@@ -3321,8 +3125,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3357,8 +3161,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:30",
+                    "updated_at": "2026-09-13 20:18:30"
                 },
                 {
                     "id": "",
@@ -3368,8 +3172,55 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:30",
+                    "updated_at": "2026-09-13 20:18:30"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 61727,
+            "status": "NS",
+            "name": "Dallas Cowboys vs New York Giants",
+            "slug": "dallas-cowboys-vs-new-york-giants",
+            "score": "vs",
+            "timelive": "00:20",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1789345200,
+            "timestamp": 1789345200,
+            "bd_time": "6:20 AM 14-09-2026",
+            "ishot": false,
+            "league_name": "NFL",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "52467",
+                    "stream_name": "52467",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52467_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "52467",
+                    "stream_name": "52467",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52467_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3404,8 +3255,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 },
                 {
                     "id": "",
@@ -3415,8 +3266,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-13 20:03:52",
-                    "updated_at": "2026-09-13 20:03:52"
+                    "created_at": "2026-09-13 20:18:44",
+                    "updated_at": "2026-09-13 20:18:44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
