@@ -9,8 +9,7 @@ except ImportError:
     PILLOW_INSTALLED = False
     print("[!] ERROR: 'Pillow' library is not installed. Run 'pip install Pillow'")
 
-M3U_URL = "https://api.tivihub.app/matches.m3u"
-API_BASE_URL = "https://api.tivihub.app/api/match/"
+JSON_URL = "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.json"
 OUTPUT_DIR = "bing_posters" 
 DEFAULT_CUSTOM_LOGO = "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
 MAX_IMAGE_SIZE_KB = 100
@@ -36,6 +35,7 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path):
     if not PILLOW_INSTALLED:
         return
 
+    
     if os.path.exists(local_path) and os.path.getsize(local_path) > 1000:
         print(f"    [=] Poster already exists for: {match_name}")
         return
@@ -108,53 +108,29 @@ def clean_old_posters(active_filenames):
     print(f"   [+] Deleted {deleted_count} old posters to save repo space.")
 
 def main():
-    print(f"🚀 Starting Auto Poster Generator (New API)...")
+    print(f"🚀 Starting Auto Poster Generator (From JSON)...")
     
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
         print(f"📁 Created directory: {OUTPUT_DIR}")
 
     try:
-        print(f"📥 Fetching M3U from {M3U_URL}...")
-        res = requests.get(M3U_URL, timeout=15)
-        m3u_text = res.text
+        print(f"📥 Fetching JSON data from {JSON_URL}...")
+        res = requests.get(JSON_URL, timeout=15)
+        json_data = res.json()
         
-        # Regex দিয়ে M3U থেকে সব match-id বের করা
-        match_ids = re.findall(r'match-id="(\d+)"', m3u_text)
-        
-        # ডুপ্লিকেট আইডি থাকলে রিমুভ করা
-        match_ids = list(dict.fromkeys(match_ids))
-            
-        print(f"📊 Found {len(match_ids)} unique matches in M3U. Fetching logos...\n")
+        # JSON ফাইলের matches অ্যারে থেকে ডেটা নেওয়া
+        matches = json_data.get("matches", [])
+        print(f"📊 Found {len(matches)} matches in JSON. Fetching logos...\n")
         
         active_poster_filenames = [] 
         
-        # API তে হিট করার জন্য প্রয়োজনীয় হেডার
-        api_headers = {
-            'accept': 'application/json',
-            'user-agent': 'TeeviHub Pro/1.0.9 (com.tivihub.app; build:97; android 10)',
-            'device-id': '89fb653344416e52',
-            'app-id': 'com.tivihub.app',
-            'app-version': '1.0.9',
-            'Host': 'api.tivihub.app'
-        }
-        
-        for index, match_id in enumerate(match_ids):
+        for match_data in matches:
             try:
-                match_res = requests.get(API_BASE_URL + match_id, headers=api_headers, timeout=10)
-                if match_res.status_code != 200:
-                    continue
-                    
-                match_data = match_res.json().get("data", {})
-                if not match_data:
-                    continue
-                
-                # নতুন API থেকে নাম এবং লোগো সংগ্রহ
                 match_title = match_data.get("name", "")
                 logo1 = match_data.get("localteam_logo", "")
                 logo2 = match_data.get("visitorteam_logo", "")
                 
-                # যদি নাম ফাঁকা থাকে তবে fallback লজিক
                 if not match_title or match_title.strip() == "":
                     team1 = match_data.get("localteam_name", "Unknown")
                     team2 = match_data.get("visitorteam_name", "Unknown")
@@ -164,14 +140,12 @@ def main():
                 final_filename = f"{safe_name}.jpg"
                 local_path = os.path.join(OUTPUT_DIR, final_filename)
                 
-                # অ্যাক্টিভ ফাইলের লিস্টে যুক্ত করা (ক্লিনআপের জন্য)
                 active_poster_filenames.append(final_filename)
                 
-                # আগের ম্যাজিক ফাংশনে ডেটা পাঠিয়ে দেওয়া
                 create_match_poster(match_title, logo1, logo2, local_path)
                 
             except Exception as e:
-                print(f"    [!] Error fetching details for ID {match_id}: {e}")
+                print(f"    [!] Error processing a match: {e}")
             
         clean_old_posters(active_poster_filenames)
             
@@ -179,7 +153,7 @@ def main():
         print(f"📂 Check the '{OUTPUT_DIR}' folder.")
 
     except Exception as e:
-        print(f"\n[!] Fatal Error: Could not fetch or process M3U. {e}")
+        print(f"\n[!] Fatal Error: Could not fetch or process JSON. {e}")
 
 if __name__ == "__main__":
     main()
